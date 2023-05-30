@@ -23,14 +23,14 @@
  
   ## Features
   * User View
-  Add/ remove/ update/ delete Habits
+
   ![Alt text]
-  * Daily view
-  ![Test Image 4]
-  * Sign In
-  ![test5]
-  * Sign Up
-  ![test6]
+
+  ![Test Image 4](https://github.com/pkundu307/habit-tracker/blob/main/assets/image/Screenshot%202023-05-31%20010141.png)
+
+  ![test5](https://github.com/pkundu307/habit-tracker/blob/main/assets/image/Screenshot%202023-05-31%20010131.png)
+
+  ![test6](https://github.com/pkundu307/habit-tracker/blob/main/assets/image/Screenshot%202023-05-31%20010213.png)
  
 
   ## Folder Structure
