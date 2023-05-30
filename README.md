@@ -24,13 +24,13 @@
   ## Features
   * User View
   Add/ remove/ update/ delete Habits
-  ![Alt text](https://github.com/DivyaGaurav21/habbit_tracker_nodejs/blob/master/assets/images/Screenshot%20(45).png?raw=true)
+  ![Alt text]
   * Daily view
-  ![Test Image 4](https://github.com/DivyaGaurav21/habbit_tracker_nodejs/blob/master/assets/images/Screenshot%20(46).png?raw=true)
+  ![Test Image 4]
   * Sign In
-  ![test5](https://github.com/DivyaGaurav21/habbit_tracker_nodejs/blob/master/assets/images/Screenshot%20(48).png?raw=true)
+  ![test5]
   * Sign Up
-  ![test6](https://github.com/DivyaGaurav21/habbit_tracker_nodejs/blob/master/assets/images/Screenshot%20(47).png?raw=true)
+  ![test6]
  
 
   ## Folder Structure
